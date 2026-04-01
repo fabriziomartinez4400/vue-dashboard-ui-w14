@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update dependencies to latest versions
-- Build: 2026-03-31T13:00:03.950Z
+- implement error handling middleware
+- Updated: 2026-04-01T13:00:01.301Z
