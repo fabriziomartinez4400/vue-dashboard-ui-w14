@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- resolve race condition in async handler
-- Build: 2026-04-03T13:00:01.379Z
+- add setup and installation guide
+- Updated: 2026-04-05T13:00:02.065Z
